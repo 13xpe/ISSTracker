@@ -4,6 +4,6 @@ This Python program utilizes the ISS coordenates from NASA's API to dynamically 
 <br></br>
 ![issTracker](https://github.com/13xpe/ISSTracker/assets/124820216/586ec3f6-a6d9-4135-9d89-9a7cf2b5ca7a)
 <br></br>
-More than the visual map with real-time movements of the ISS the program also prints the coordinates, every 5 seconds.
+More than the visual map with real-time movements of the ISS, our python code also prints the coordinates where the ISS is located, every 5 seconds.
 <br></br>
 ![trackingCoordinates](https://github.com/13xpe/ISSTracker/assets/124820216/d311f5b9-10ad-4370-9f0f-9dac8cb6bbd9)
